@@ -1,0 +1,6 @@
+{
+  "name": "My Finance Tracker",
+  "description": "Modern personal finance tracker with dashboard metrics, transaction tracking, monthly budget progress, analytics charts, and CSV export/import.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
